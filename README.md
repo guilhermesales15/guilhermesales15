@@ -2,6 +2,7 @@
 
 
 - 🔭 Busco trabalho em front-end
+- 🧠 Cursando Sistemas de informação.
 - 🌱 Estou estudando JavaScript, React e NodeJS
 - 💬 email de contato: guilhermefeit4@gmail.com
 
