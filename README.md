@@ -1,7 +1,7 @@
 ## Hello world, meu nome é Guilherme Sales 😁
 
 
-- 🔭 Busco trabalho em front-end
+- 🔭 Busco primeira oportunidade.
 - 🧠 Cursando Sistemas de informação.
 - 🌱 Estou estudando JavaScript, React e NodeJS
 - 💬 email de contato: guilhermefeit4@gmail.com
