@@ -3,7 +3,7 @@
 
 - 🔭 Busco primeira oportunidade.
 - 🧠 Cursando Sistemas de informação.
-- 🌱 Estou estudando JavaScript, React e NodeJS
+- 🌱 Estou estudando TypeScript, React Native e NodeJS
 - 💬 email de contato: guilhermefeit4@gmail.com
 
 <br>
